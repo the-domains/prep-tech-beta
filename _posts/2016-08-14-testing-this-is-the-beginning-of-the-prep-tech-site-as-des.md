@@ -1,18 +1,17 @@
 ---
 description: 'Testing. This is the beginning of the PREP Tech site, as designed by The Grid'
-dateModified: '2016-08-05T17:11:18.745Z'
-datePublished: '2016-08-14T04:09:41.215Z'
+dateModified: '2016-08-14T04:12:02.151Z'
+datePublished: '2016-08-14T04:12:02.468Z'
 title: ''
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: >-
   _posts/2016-08-14-testing-this-is-the-beginning-of-the-prep-tech-site-as-des.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: testing-this-is-the-beginning-of-the-prep-tech-site-as-des/index.html
+_type: Blurb
 
 ---
 Testing. This is the beginning of the PREP Tech site, as designed by The Grid
