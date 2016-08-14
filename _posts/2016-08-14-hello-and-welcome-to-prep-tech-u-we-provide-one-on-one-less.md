@@ -1,17 +1,17 @@
 ---
-datePublished: '2016-08-14T04:11:31.367Z'
+datePublished: '2016-08-14T04:20:35.316Z'
 sourcePath: >-
   _posts/2016-08-14-hello-and-welcome-to-prep-tech-u-we-provide-one-on-one-less.md
 author: []
 via: {}
-dateModified: '2016-08-14T04:11:31.133Z'
+dateModified: '2016-08-14T04:20:35.098Z'
 title: WELCOME YO
 publisher: {}
 description: >-
   Hello and welcome to PREP Tech UWe provide one on one lessons for various ___
   in the entertainment field.Pro ToolsAbleton Live
 hasPage: true
-starred: false
+starred: true
 url: welcome-yo/index.html
 _type: Blurb
 
