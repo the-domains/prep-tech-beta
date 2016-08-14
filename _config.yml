@@ -12,4 +12,8 @@ color:
     - '#CBC6B4'
 layout_spectrum: 0.6058689851779491
 name: PREP TECH BETA
+navigation:
+  - name: A NEW FUCKIN POST
+    id: c0f2fd4f-c9a7-4849-bdae-576c1e60873e
+    type: content
 title: PREP TECH U
