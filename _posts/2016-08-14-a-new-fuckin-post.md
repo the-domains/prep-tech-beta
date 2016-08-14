@@ -1,13 +1,13 @@
 ---
 description: A NEW POST
-dateModified: '2016-08-14T04:31:27.140Z'
-datePublished: '2016-08-14T04:31:35.391Z'
+dateModified: '2016-08-14T04:31:40.129Z'
+datePublished: '2016-08-14T04:31:40.362Z'
 title: A NEW FUCKIN POST
 author: []
 publisher: {}
 via: {}
-starred: false
 sourcePath: _posts/2016-08-14-a-new-fuckin-post.md
+starred: false
 inFeed: true
 hasPage: false
 inNav: false
