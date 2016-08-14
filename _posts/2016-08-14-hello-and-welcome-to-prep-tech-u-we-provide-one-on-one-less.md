@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-08-14T04:22:35.397Z'
+datePublished: '2016-08-14T04:25:11.932Z'
 sourcePath: >-
   _posts/2016-08-14-hello-and-welcome-to-prep-tech-u-we-provide-one-on-one-less.md
 inFeed: true
 hasPage: true
 author: []
 via: {}
-dateModified: '2016-08-14T04:22:35.133Z'
+dateModified: '2016-08-14T04:25:11.817Z'
 title: WELCOME YO
 publisher: {}
 description: >-
