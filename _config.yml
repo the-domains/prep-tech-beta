@@ -12,14 +12,4 @@ color:
     - '#CBC6B4'
 layout_spectrum: 0.6058689851779491
 name: PREP TECH BETA
-navigation:
-  - name: WELCOME YO
-    id: 696a3b34-d01f-4c7c-8138-2cf87abeb57b
-    type: content
-  - name: this is something else
-    id: cf239b63-c082-45ca-9e35-a3667a630676
-    type: content
-  - name: YO YO YO
-    id: cd8d3f20-dc10-407b-8338-06f8d9950482
-    type: content
 title: PREP TECH U
