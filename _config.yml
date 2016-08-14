@@ -13,10 +13,10 @@ color:
 layout_spectrum: 0.6058689851779491
 name: PREP TECH BETA
 navigation:
-  - name: WELCOME YO
-    id: 696a3b34-d01f-4c7c-8138-2cf87abeb57b
-    type: content
   - name: dfgaedf
     id: cf239b63-c082-45ca-9e35-a3667a630676
+    type: content
+  - name: WELCOME YO
+    id: 696a3b34-d01f-4c7c-8138-2cf87abeb57b
     type: content
 title: PREP TECH U
